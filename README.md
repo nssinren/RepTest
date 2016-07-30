@@ -2,4 +2,5 @@
 
 # Member
 
-* me
+* Me
+* Ken
