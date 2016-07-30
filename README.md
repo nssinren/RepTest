@@ -4,4 +4,3 @@
 
 * Me
 * Ken
-* Yamato
